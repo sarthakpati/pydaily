@@ -29,7 +29,7 @@ CLASSIFIERS = [
 
 args = dict(
     name=PKG_NAME,
-    version=VERSION,
+    version='0.4.3',
     description=DESCRIPTION,
     url=HOMEPAGE,
     license=LICENSE,
