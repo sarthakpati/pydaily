@@ -2,8 +2,6 @@
 
 from setuptools import setup, find_packages
 
-import pydaily
-
 PKG_NAME = "pydaily"
 VERSION = pydaily.__version__
 DESCRIPTION = "Daily python utility functions."
